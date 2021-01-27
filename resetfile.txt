@@ -1,0 +1,4 @@
+este archivo no lo quiero en el area de staging
+
+
+simplemento lo voy a agregar y despues lo voy a regresar.
